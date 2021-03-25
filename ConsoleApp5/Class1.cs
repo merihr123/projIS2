@@ -6,5 +6,6 @@ namespace ConsoleApp5
 {
     class NewClass
     {
+        void test() { }
     }
 }
